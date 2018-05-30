@@ -1,1 +1,1 @@
-Remote repo for new wordpress site
+Remote test repo for new wordpress site
